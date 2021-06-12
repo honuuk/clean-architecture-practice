@@ -9,4 +9,5 @@
 
 ## 목차
 
-[SOLID][https://github.com/jewook3617/clean-architecture-practice/tree/master/SOLID]
+- SOLID
+    - [SRP](https://github.com/jewook3617/clean-architecture-practice/tree/master/SOLID/SRP)
