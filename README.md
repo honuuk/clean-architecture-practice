@@ -9,4 +9,4 @@
 
 ## 목차
 
-- [SOLID][https://github.com/jewook3617/clean-architecture-practice/tree/master/SOLID]
+[SOLID][https://github.com/jewook3617/clean-architecture-practice/tree/master/SOLID]
