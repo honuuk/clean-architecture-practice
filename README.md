@@ -12,3 +12,4 @@
   - [SRP](https://github.com/jewook3617/clean-architecture-practice/tree/master/SOLID/SRP)
   - [OCP](https://github.com/jewook3617/clean-architecture-practice/tree/master/SOLID/OCP)
   - [LSP](https://github.com/jewook3617/clean-architecture-practice/tree/master/SOLID/LSP)
+  - [ISP](https://github.com/jewook3617/clean-architecture-practice/tree/master/SOLID/ISP)
