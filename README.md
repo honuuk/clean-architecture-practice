@@ -32,4 +32,4 @@
   - 패스워드와 이메일이 요구사항을 만족하는지 확인한다.
   - 사용자가 입력한 정보를 가지는 user를 시스템에 생성한다.
 - **Interface Adapter: 웹이나 데이터베이스 같은 외부의 데이터 형식 <-> Entity, Use Case에서 사용하는 데이터 형식 변환.**
-- **Frame Works: Express, 실제 DB는 붙이지 않음.**
+- **Frame Works: REST API, Express, 실제 DB는 붙이지 않음.**
